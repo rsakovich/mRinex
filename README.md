@@ -1,2 +1,2 @@
 # mRinex
-Matlab parser for Rinex v2 and Rinex v3 observetion files.
+It uses RinDump from GPSTk http://www.gpstk.org. Currently the only Linux envirounment is supported.
